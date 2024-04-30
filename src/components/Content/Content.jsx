@@ -2,10 +2,8 @@ import React from "react";
 import "./Content.css";
 // import ParticleHeaderBg from "../ParticlesBg/ParticleHeaderBg";
 
-/* ReactScroll */
 import { Link } from "react-scroll";
 
-/* Multi idioma */
 import { FormattedMessage } from "react-intl";
 
 const Content = () => (
