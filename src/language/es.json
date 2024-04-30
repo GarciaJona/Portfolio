@@ -1,0 +1,116 @@
+{
+  "home": "Inicio",
+  "about": "Sobre mi",
+  "certificates": "Certificados",
+  "services": "Servicios",
+  "projects": "Proyectos",
+  "contact": "Contactos",
+
+  "site-web": "Páginas web",
+
+  "greeting": "Hola",
+  "name": "Soy Jona Garcia",
+  "rol": "Full-stack developer",
+
+  "im": "Quien soy",
+  "description": "Mi nombre es Jonathan Garcia y soy full stack developer",
+  "my-description": "Me dedico desde hace 2 años al diseño y desarrollo web, estoy en constante aprendizaje de las tecnologías que ya domino, asimismo busco aprender nuevas tecnologías para enriquecer mis habilidades y mejorar mis buenas prácticas como desarrollador.",
+  "years": "Edad: ",
+  "from": "Desde: ",
+  "btn-know-more": "Saber más",
+  "tools": "Herramientas",
+
+  "design": "Diseño UX/UI",
+  "design-info": "Diseño de interfaz atractivas para usuarios tanto en web como en móvil, aprovechando al máximo la marca o el producto que el cliente dese explotar en su sitio web",
+  "development": "Desarrollo WEB",
+  "development-info": "Creación de páginas web, bien estructuradas, buen diseño responsivo, paleta de colores atractivas, con interacciones que le den al usuario satisfacción cuando navegue por el sitio web.",
+  "marketing": "Marketing digital",
+  "marketing-info": "Preparar una estrategia y objetivos para la promoción de la marca que nos proporcione el cliente, utilizando internet u otras plataformas para promover productos y servicios de la marca en cuestión.",
+  "maintenance": "Mantenimiento web",
+  "maintenance-info": "Mantenimiento completo de páginas web para detectar y solucionar errores, actualización de contenido ya sean textos, fotos, elementos de diseño web, añadir nuevas funciones, etc.",
+  "seo": "Posicionamiento web (SEO)",
+  "seo-info": "Posicionamiento web mediante SEO, así tu pagina web aparezca en los principales resultados de búsqueda acorde a tu negocio, tanto en Google, Bing, u otros buscadores de internet",
+  "optimization": "Optimización web",
+  "optimization-info": "Optimización completa de tu pagina web, mejorando la velocidad de carga, usando imágenes optimizadas,, un buen URL, para dar una mejor experiencia a los usuarios que visiten el sitio web ",
+
+  "contact-info": "Contactame por: ",
+
+  "footer-info": "Pagina creada por JonaGarcia",
+
+  "about-info-title": "Principales habilidades",
+  "about-info-Certification": "Certificaciones",
+
+  "about-info-1": "Además de mi experiencia como desarrollador web y diseñador UX/UI, me enfoco en crear productos digitales visualmente atractivos, intuitivos y funcionales. Esto requiere dominar las últimas tendencias en diseño y tecnología, así como comprender las necesidades de los usuarios.",
+  "about-info-2": "Mi pasión por la programación me impulsa a mantenerme actualizado con las últimas tendencias y tecnologías. Siempre estoy explorando nuevas herramientas y frameworks para mejorar mi flujo de trabajo y la calidad de mis productos.",
+  "about-info-3": "Mi experiencia como freelancer me ha enseñado la importancia de la comunicación y colaboración con los clientes. Estoy acostumbrado a trabajar en entornos dinámicos y adaptarme a las necesidades de cada proyecto, siempre buscando superar las expectativas del cliente.",
+  "about-info-4": "En resumen, soy un desarrollador web y diseñador UX/UI apasionado y autodidacta, comprometido con la excelencia en cada proyecto. Estoy emocionado por las oportunidades de crecimiento y aprendizaje que esta industria en constante evolución ofrece.",
+  "btn-cv": "Descargar CV",
+  "about-skills-1": "Con una sólida experiencia profesional en este lenguaje, puedo desenvolverme sin problemas en la industria.",
+  "about-skills-2": "Cuento con experiencia laboral significativa en este lenguaje, lo empleo regularmente para desarrollar diseños web e interfaces.",
+  "about-skills-3": "He trabajado tanto en el front-end como en el back-end durante un tiempo considerable, lo que me ha permitido familiarizarme y utilizar este lenguaje en varios proyectos laborales.",
+  "about-skills-4": "He utilizado este preprocesador en el ámbito profesional durante un tiempo, integrándolo en muchos de mis proyectos para lograr un código más estructurado.",
+  "about-skills-5": "Aunque mi experiencia con este framework es relativamente corta, lo he empleado en distintos proyectos, lo que me ha permitido familiarizarme con él en gran medida.",
+  "about-skills-6": "He trabajado con esta librería tanto en el ámbito personal como laboral durante un tiempo considerable, siendo una de las librerías que más utilizo y manipulo.",
+  "about-skills-7": "Tengo una amplia experiencia en el uso de este framework JavaScript, habiendo realizado múltiples proyectos tanto personales como laborales.",
+  "about-skills-8": "Utilizo este entorno de tiempo de ejecución multiplataforma para hacer que mis aplicaciones web sean escalables.",
+  "about-skills-9": "Este framework es fundamental para mí en la gestión óptima de mis APIs y el modelo de ejecución http en mis proyectos.",
+  "about-skills-10": "Cuento con experiencia en el uso de TypeScript, lo empleo para mejorar la calidad y la seguridad de mis proyectos.",
+  "about-skills-11": "Utilizo Material UI para el diseño y la implementación de interfaces en mis aplicaciones, aprovechando su amplia gama de componentes y estilos predefinidos.",
+
+  "about-certis-1": "Bootcamp de Soy Henry, carrera Full Stack Developer donde se aprenden las tecnologías: JavaScript, HTML, CSS, Node, React, Redux y SQL.",
+  "about-certis-2": "Periodo cumpliendo el rol de Teach Asisistant en Soy Henry y obteniendo la condecoración y reconocimiento de habilidades de ingenio e imaginación en las habilidades de soft skills.",
+  "about-certis-3": "Promises, Generadores, Orientado a Objetos, Fetch API, Async Await, Async JS, Objetos, así como consumir REST APIs, API's de JavaScript nátivas como Notification API y Speech API.",
+  "about-certis-4": "Desarrollo y Diseño web: Creación de sitio web acorde a las enseñanzas y prácticas dictadas en el curso, obteniendo conocimientos de motores de busqueda y librerias web para aplicarlas al proyecto/idea personal.",
+  "about-certis-5": "Crear páginas web dinámicas con vistas en la inmediatez y los elementos básicos de Javascript: Datos, funciones, variables, arrays y objetos, sumando operadores principales y avanzados, el uso de librerías y frameworks.",
+  "about-certis-6": "Fundamentos y roles del diseño UX, Factores de experiencia de usuario, Usabilidad, Diseño de Interacción (IXD), Arquitectura de Información, Accesibilidad, Diferencias entre CX y UX, Principios Heurísticos, Prototipos en baja.",
+  "about-certis-7": "Leyes en Accesibilidad web, Pautas y alcances de la Accesibilidad, Herramientas de evaluación, Validación web y en productos digitales, Mejores prácticas para potenciar la UX, Principios aplicativos en Accesibilidad.",
+  "about-certis-8": "Cómo elaborar un presupuesto completo, Tipos de tarifarios, Calcular el costo de tu Jornada Laboral, Deducir cuál es tu costo por hora, Seniority: cómo influye en el presupuesto, Qué cobrar y de qué forma, Evitar errores y pérdidas, Cómo obtener el costo por pieza o diseño",
+  "about-certis-9": "Fundamentos de Illustrator, manejando la interfaz y el entorno, explorando los conceptos de imagen vectorial y mapa de bits,técnicas de rellenos y dibujos, gráficos vectoriales, herramientas de transformación y deformación, imágenes y máscaras.",
+  "about-certis-10": "Fundamentos de Photoshop, Imágenes vectoriales y Mapa de bits, Selección, trazado y dibujo, Manipular niveles de color, curvas, brillos y contraste, Retoque y Herramientas Avanzadas de Edición, Trabajar con capas y paletas de colores.",
+
+  "services-questions": "Preguntas frecuentes",
+  "services-questions-1": "¿Que es una páginas web responsive?",
+  "services-questions-p1": "Es aquella página que es capaz de adaptarse a cualquier dispositivo donde se visualice, tanto como en celulares, tabletas, laptops, sin perder la apariencia ni la usabilidad.",
+  "services-questions-2": "¿Que es un Dominio y un Hosting?",
+  "services-questions-p2": "Ambos son elementos esenciales de un sitio web. En síntesis, el nombre de dominio es la dirección de la página web, mientras que el hosting proporciona el espacio y los recursos necesarios para poner en marcha el sitio web.",
+  "services-questions-3": "¿Es necesario un mantenimiento mensual?",
+  "services-questions-p3": "Hacer un mantenimiento regular de tu sitio web permite, atraer y retener clientes con nueva información, nuevos productos y servicios, además de ayudarte a mantener, o a mejorar tu ranking en Google.",
+  "services-questions-4": "¿Cómo pagar?",
+  "services-questions-p4": "Se puede pagar online mediante tarjetas de crédito o débito y pagos mediante transferencias.",
+
+  "projects-link": "Enlace:",
+  "projects-tec": "Tecnologías Utilizadas:",
+
+  "projects-info-17-p1": "Karku es una plataforma en línea que combina la presentación de productos ecológicos con un sistema de compra en línea.",
+  "projects-info-17-p2": "El proyecto consta de dos partes principales: una página de aterrizaje de presentación y un comercio electrónico con características avanzadas. Karku eCommerce permite a los usuarios explorar y comprar productos sostenibles en línea.",
+
+  "projects-info-16-p1": "MDCX es un ecosistema innovador de criptomonedas.",
+  "projects-info-16-p2": "Desarrollado en WordPress con HTML, PHP y CSS, MDCX representa una iniciativa visionaria que tiene como objetivo cerrar la brecha entre la tecnología y la atención médica, fomentando avances en la búsqueda de una mejor salud global.",
+
+  "projects-info-15-p1": "La página de aterrizaje es un proyecto de campaña diseñado para mostrar una promoción exclusiva del token MDCX.",
+  "projects-info-15-p2": "Desarrollada en WordPress con CSS y HTML, la página proporciona una interfaz simple pero impactante para comunicar la propuesta única del token y los beneficios de participar en la promoción.",
+
+  "projects-info-14-p1": "Cognity, la aplicación de salud innovadora. Con planes de enfermedades preventivas y acceso directo a expertos médicos, Cognity ofrece un enfoque único y dinámico para la gestión de la salud individualizada.",
+  "projects-info-14-p2": "La integración perfecta de WordPress, CSS y HTML permite a los usuarios navegar por la plataforma sin esfuerzo, garantizando una experiencia de usuario encantadora e informativa.",
+
+  "projects-info-13-p1": "El simulador clínico es una herramienta revolucionaria diseñada específicamente para proporcionar a los médicos la oportunidad de probar y mejorar sus conocimientos en un entorno virtual.",
+  "projects-info-13-p2": "Este documento explora la importancia y versatilidad de los simuladores clínicos en la educación médica y destaca la implementación de WordPress, HTML y CSS para diseñar una plataforma de simulación efectiva.",
+
+  "projects-info-12-p1": "NABIJASH ofrece una herramienta para que las empresas y los estudiantes se conecten de manera segura y creen relaciones profesionales con grandes oportunidades de crecimiento, aprendizaje y mucho más.",
+  "projects-info-12-p2": "NABIJASH es una aplicación de pila completa construida con Typescript, CSS, Node.js, Express.js, PostgreSQL y MongoDB.",
+
+  "projects-info-11-p1": "Trilha lele es una plataforma de comercio electrónico donde puedes encontrar una amplia variedad de aromas y productos artesanales. Es una marca dedicada a decorar tu hogar.",
+  "projects-info-11-p2": "Desarrollado en TiendaNube utilizando plugins propios, HTML y estilos CSS.",
+
+  "projects-info-10-p1": "Il Mirtilo es un negocio familiar dedicado a la producción, preparación y venta de productos gourmet de calidad derivados de frutos rojos cosechados en nuestras propias plantaciones ubicadas en la localidad de Suipacha (Provincia de Buenos Aires).",
+  "projects-info-10-p2": "Este sitio de comercio electrónico fue construido utilizando CSS para el estilo y los plugins de TiendaNube.",
+
+  "projectsApp-info-3-p1": "El primer proyecto final del Bootcamp Soy Henry se basa en crear un SPA de perros utilizando una API externa.",
+  "projectsApp-info-3-p2": "Al traer esos datos debemos hacer: estilo, paginar, filtrar y buscar. En mi caso, utilicé: HTML5, CSS3, JavaScript, React, Redux, Express, PostgreSQL y Node.js.",
+
+  "projectsApp-info-2-p1": "Moon Ideas es una página única donde puedes ver un catálogo de ropa.",
+  "projectsApp-info-2-p2": "Cuenta con una barra de búsqueda, filtros y tarjetas que muestran cada producto. Fue desarrollado y diseñado utilizando tecnologías JavaScript, HTML5 y CSS3.",
+
+  "projectsApp-info-1-p1": "Desarrollo de un Sistema de Facturación con Integración de Código de Barras, Filtrado y Exportación a PDF, completamente adaptado para operar eficientemente en dispositivos móviles.",
+  "projectsApp-info-1-p2": "Utilizando ReactJS, ReactPDF, Quagga, Node.js, Express y MongoDB, el sistema garantiza una experiencia de usuario óptima tanto en funcionalidad como en diseño."
+}
