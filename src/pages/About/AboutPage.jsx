@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./AboutPage.css";
 import "./AboutPageCertis.css";
 
@@ -28,6 +28,9 @@ import certi9 from "../../img/certificados/educacionit- illustrator.jpeg";
 import certi10 from "../../img/certificados/educacionit- photoshop.jpeg";
 
 const About = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   function readMore() {
     let btnHide = document.querySelector("#btn-hide");
     let parrafoActive = document.querySelector(".parrafo-active");

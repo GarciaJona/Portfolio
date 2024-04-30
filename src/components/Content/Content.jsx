@@ -1,6 +1,5 @@
 import React from "react";
 import "./Content.css";
-// import ParticleHeaderBg from "../ParticlesBg/ParticleHeaderBg";
 
 import { Link } from "react-scroll";
 
@@ -8,7 +7,26 @@ import { FormattedMessage } from "react-intl";
 
 const Content = () => (
   <div className="contenido">
-    {/* <ParticleHeaderBg /> */}
+    <div class="area">
+      <ul class="circles">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
     <section className="inicio" id="inicio">
       <div className="titulo">
         <p data-aos="fade-up" data-aos-delay="600">
